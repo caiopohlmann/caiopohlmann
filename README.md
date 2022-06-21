@@ -1,6 +1,7 @@
 ### Olá, me chamo Caio Pohlmann 👋
 
-- 🌱 Estou cursando bacharel em SI & Técnico mobile (Dart & Flutter)
+- 🌱 Cursando bacharelado em Sistemas de Informação - AMF
+- 🌱 Cursando desenvolvimento mobile (Dart & Flutter) - Academia do Flutter
 - 📫 Entre em contato: https://caiopohlmann.netlify.app/
 
 <div align="center">
